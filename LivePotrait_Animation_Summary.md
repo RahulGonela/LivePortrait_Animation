@@ -74,7 +74,7 @@ The original LivePortrait model suffered from high inference latency, making rea
 ---
 
 **Author**: Gonela Rahul
-**Date**: 04-07-2025
-**Colab Link**: [LivePortrait Optimization Colab](https://colab.research.google.com/drive/1W50jQdXdbfQ61n6K0q2VZDMczXyko1FW#scrollTo=l4X7rt_5ZlLr)
+**Date**: 05-06-2025
+**Colab Link**: [LivePortrait Colab](https://colab.research.google.com/drive/1W50jQdXdbfQ61n6K0q2VZDMczXyko1FW#scrollTo=l4X7rt_5ZlLr)
 
 
